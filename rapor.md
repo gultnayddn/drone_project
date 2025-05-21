@@ -61,12 +61,4 @@ Bu proje, sistem programlama, soket haberlesmesi ve yapay zeka algoritmalarini b
 
 ---
 
-## Gelecek Gelistirmeler
-
-- Grafik arayuz eklenmesi
-- Gercek drone donanimi ile baglanti
-- Gelismis rota planlama algoritmalari
-- Engel algilama ve kacma destegi
-
----
 
